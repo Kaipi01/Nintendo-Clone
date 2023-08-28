@@ -1,0 +1,6 @@
+node-modules/
+dist/
+notes.txt
+.cache
+.vs
+.DStore
